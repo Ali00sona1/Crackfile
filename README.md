@@ -37,6 +37,6 @@ $ python2 Crackfb.py
 ```
 pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pip2 install bs4 ; pkg install git ; git clone https://github.com/James404-cyber/Crackfile.git ; cd Crackfile ; python2 Crackfb.py
 ```
- TOOL USER : (CONTACT FOR ME)</br>
- TOOL PASS : (CONTACT FOR ME)</br>
+ TOOL USER : (MRJAMES404)</br>
+ TOOL PASS : (BLACK404)</br>
  [![Facebook](https://img.shields.io/badge/Facebook-JAMES-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Apni.bapka.account7)</br>
